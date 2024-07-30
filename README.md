@@ -12,7 +12,7 @@ To view the project locally, follow these steps:
 Clone the Repository:
 
 Clone the project repository to your local machine using the following command:
-git clone https://github.com/MayuriP-05/index.git
+git clone https://github.com/MayuriP-05/domManipulation.git
 
 Open the Project:
 Navigate to the project directory and open the index.html file in your preferred web browser:
